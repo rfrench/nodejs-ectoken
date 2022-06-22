@@ -30,9 +30,9 @@
   },
   "homepage": "https://github.com/VerizonDigital/ectoken#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "nyc": "^13.1.0",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0",
     "std-mocks": "^1.0.1"
   },
   "dependencies": {
